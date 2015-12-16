@@ -9,6 +9,10 @@ the game art.
 
 Play the game [here](http://www.salle.url.edu/~tm18164/musicMinded/simulador.html)
 
+記譜法を教えるために、シリアスゲームを開発。
+Flash Action Script 3.0を使用。
+一人で開発。デザイナーいたので、デザインを作ってもらいました。
+
 ## Languages
 
 Action Script
