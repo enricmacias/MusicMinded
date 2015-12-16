@@ -15,3 +15,7 @@ Action Script
 
 ## Screenshots
 
+![alt tag](https://github.com/enricmacias/MusicMinded/blob/master/Screenshots/image01.jpg)
+![alt tag](https://github.com/enricmacias/MusicMinded/blob/master/Screenshots/image02.jpg)
+![alt tag](https://github.com/enricmacias/MusicMinded/blob/master/Screenshots/image03.jpg)
+![alt tag](https://github.com/enricmacias/MusicMinded/blob/master/Screenshots/image04.jpg)
